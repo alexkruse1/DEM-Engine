@@ -1,0 +1,13 @@
+/build/
+/.vs/
+/CMakeFiles/
+CMakeCache.txt
+*.obj
+*.pdb
+*.lib
+*.exp
+*.dll
+*.exe
+*.log
+.vscode/
+Thumbs.db
